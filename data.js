@@ -12,11 +12,11 @@ const servicesData = [
     {
         title: "Machine Learning",
         category: "machinelearning",
-        description: ['Python', 'Pytorch', 'Tensorflow', 'Roboflow', 'Yolov8 Learning Model']
+        description: ['Python', 'Pytorch', 'Tensorflow', 'Roboflow', 'Yolov8 Learning Model', 'NEAT Learning Model']
     },
     {
         title: "Game Development",
         category: "gamedevelopment",
-        description: ['Godot (Python)', 'Unity (C#)']
+        description: ['Godot (Python)', 'Unity (C#)', 'PyGame']
     }
 ]
