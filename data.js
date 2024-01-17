@@ -18,5 +18,10 @@ const servicesData = [
         title: "Game Development",
         category: "gamedevelopment",
         description: ['Godot (Python)', 'Unity (C#)', 'PyGame']
+    },
+    {
+        title: "Research/Clubs",
+        category: "research",
+        description: ['RANCS Researh Lab Assistant', 'Bulls Racing Data Acquisition Team']
     }
 ]
