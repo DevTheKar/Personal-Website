@@ -17,7 +17,7 @@ const servicesData = [
     {
         title: "Game Development",
         category: "gamedevelopment",
-        description: ['Godot (Python)', 'Unity (C#)', 'PyGame']
+        description: ['Godot (GDScript)', 'Unity (C#)', 'PyGame']
     },
     {
         title: "Research/Clubs",
