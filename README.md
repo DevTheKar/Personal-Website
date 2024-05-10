@@ -28,5 +28,5 @@ You can visit my live website [here](https://devthekar.github.io).
 Feel free to contact me if you have any questions or suggestions regarding this project:
 
 - Email: [devthekar@gmail.com](mailto:devthekar@gmail.com)
-- LinkedIn: [Dev N Thakkar](https://www.linkedin.com/in/dev-n-thakkar)
+- LinkedIn: [Dev Thakkar](https://www.linkedin.com/in/dev-n-thakkar)
 
