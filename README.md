@@ -1,27 +1,32 @@
-# Welcome to DevThekar's Personal Website
+# My Personal Portfolio Website
 
-![DevThekar Logo](https://github.com/DevThekar.png)
+Welcome to my personal portfolio website repository! This website was created using React and Framer Motion, following the tutorial by Lama Dev, which you can find [here](https://www.youtube.com/watch?v=CHGHuF24Cjw).
 
-## About
-Welcome to my personal website hosted on GitHub Pages! This is where I showcase my projects, share my thoughts, and connect with fellow developers and enthusiasts.
+You can visit my live website [here](https://devthekar.github.io).
 
-## Navigation
-Working on it
+## Features
+
+- Responsive design: The website is designed to work seamlessly across different devices and screen sizes.
+- Smooth animations: Framer Motion library is used to create fluid animations, enhancing the user experience.
+- Project showcase: Displaying my projects in an organized and visually appealing manner to showcase my skills and work.
+- Contact form: A contact form is provided for visitors to get in touch with me easily.
 
 ## Technologies Used
-- **HTML/CSS/JavaScript**: The backbone of this website's frontend.
-- **GitHub Pages**: Hosting this website directly from a GitHub repository.
 
-## How to Contribute
-Found a typo, bug, or have an idea for improvement? Feel free to open an issue or submit a pull request on the GitHub repository associated with this website. Your contributions are highly appreciated!
+- React
+- Framer Motion
+- HTML
+- CSS
+- JavaScript
 
-## Connect With Me
-- **Email**: [devthekar@gmail.com](mailto:devthekar@gmail.com)
-- **GitHub**: [DevThekar](https://github.com/DevThekar)
-- **LinkedIn**: [DevThekar](https://www.linkedin.com/in/dev-n-thakkar)
-- **Twitter**: [@DevThekar](https://twitter.com/DevThekar)
+## Credits
 
-## License
-The content of this website is licensed under the MIT License. Feel free to reuse and modify the code for your own personal or commercial projects.
+- Tutorial by Lama Dev: [YouTube Link](https://www.youtube.com/watch?v=CHGHuF24Cjw)
 
-Thank you for visiting my website! 🚀
+## Contact
+
+Feel free to contact me if you have any questions or suggestions regarding this project:
+
+- Email: [devthekar@gmail.com](mailto:devthekar@gmail.com)
+- LinkedIn: [Dev N Thakkar](https://www.linkedin.com/in/dev-n-thakkar)
+
